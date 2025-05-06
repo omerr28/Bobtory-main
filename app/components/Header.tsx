@@ -46,7 +46,7 @@ const Header: React.FC = () => {
                             className='rounded-full'
                         />
                     </Link>
-                    <h2 className='font-bold text-xl text-[var(--primary-color)]'>JoyStory</h2>
+                    <h2 className='font-bold text-xl text-[var(--primary-color)]'>Bobtory</h2>
                 </NavbarBrand>
             </NavbarContent>
 

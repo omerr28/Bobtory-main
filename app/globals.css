@@ -4,9 +4,9 @@
 
 :root {
   /* Kid-Friendly Color Palette */
-  --primary-color: #4A90E2;     /* Soft Bright Blue */
+  --primary-color:   #FFD93D;     /* Soft Bright Blue */
   --secondary-color: #FF6B6B;   /* Playful Coral Red */
-  --accent-color: #FFD93D;      /* Sunny Yellow */        /* Soft Pastel Blue-Gray */        /* Deep Navy */
+  --accent-color:  #4A90E2;      /* Sunny Yellow */        /* Soft Pastel Blue-Gray */        /* Deep Navy */
   --background-secondary: #E6F2FF; /* Light Pastel Blue */
 }
 
@@ -43,12 +43,12 @@ body {
   
   .bg-kid-primary {
     background-color: var(--primary-color);
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   .bg-kid-secondary {
     background-color: var(--secondary-color);
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   .text-kid-accent {

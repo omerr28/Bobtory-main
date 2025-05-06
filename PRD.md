@@ -1,7 +1,7 @@
-# Product Requirements Document (PRD) for JoyStory  - AI-Powered Children's Story Generator
+# Product Requirements Document (PRD) for Bobtory  - AI-Powered Children's Story Generator
 
 ## 1. Product Overview
-JoyStory is an innovative AI-powered platform that enables users to create personalized, engaging children's stories with custom illustrations in minutes.
+Bobtory is an innovative AI-powered platform that enables users to create personalized, engaging children's stories with custom illustrations in minutes.
 
 ## 2. Problem Statement
 - Parents and educators struggle to find time to create unique, engaging stories for children

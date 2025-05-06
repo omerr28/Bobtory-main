@@ -8,7 +8,7 @@ const ContactUs = () => {
     const [formData, setFormData] = useState({
         name: '',
         email: '',
-        phone: '+905349625225',
+        phone: '+905510192354',
         message: ''
     });
 
@@ -16,7 +16,7 @@ const ContactUs = () => {
         {
             icon: <FaWhatsapp className='text-3xl text-green-500' />,
             label: 'WhatsApp',
-            value: '+905349625225',
+            value: '+905510192354',
             action: () => {
                 const message = encodeURIComponent("Merhaba, size destek almak için iletişime geçiyorum.");
                 window.open(`https://wa.me/${formData.phone}?text=${message}`, '_blank');
@@ -25,7 +25,7 @@ const ContactUs = () => {
         {
             icon: <FaEnvelope className='text-3xl text-blue-500' />,
             label: 'E-posta',
-            value: 'support@joystory.ai',
+            value: 'support@Bobtory.ai',
             action: () => window.location.href = 'mailto:eshagh@fennaver.com'
         },
         {

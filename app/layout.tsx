@@ -10,8 +10,8 @@ import MobileNav from "./components/MobileNav";
 const MyAppFont=Nunito({subsets:['latin']});
 
 export const metadata: Metadata = {
-  title: "JoyStory",
-  description: "JoyStory: Çocuklarınız için Sihirli Hikayeler Oluşturun",
+  title: "BoBtory - Çocuklarınız için Sihirli Hikayeler Oluşturur",
+  description: "BoBtory: Hikayelerin Büyülü Dünyası",
 };
 
 export default function RootLayout({

@@ -5,18 +5,18 @@ import Link from "next/link";
 export default function Home() {
   const features = [
     {
-      icon: "🌈",
-      title: "Büyüleyici Hikayeler",
-      description: "Hayatınızın en güzel hikayelerini yaratmak için AI'yı kullanın!"
+      icon: "🔬",
+      title: "Bilgilendirici Hikayeler",
+      description: "Bilimin tadını çıkarın aynı zamanda bilginize bilgi katın!"
     },
     {
       icon: "📖",
-      title: "Kişiselleştirilmiş Macera",  
-      description: "Çocuğunuzun adını ve ilgi alanlarını kullanarak hikayeleri özelleştirin"
+      title: "Macera hikayeleri",  
+      description: "Çocuğunuzun hayal gücünü maceralarıyla test edin"
     },
     {
       icon: "🚀",
-      title: "Öğrenme Eğlenceli",
+      title: "Eğitici hikayeler",
       description: "Öğrenmeyi eğlenceli hale getiren eğitimsel hikayeler"
     }
   ];
@@ -27,7 +27,7 @@ export default function Home() {
       
       <section className="px-4 md:px-20 py-16 text-center">
         <h2 className="text-4xl md:text-5xl font-bold text-[var(--primary-color)] mb-12 animate-bounce">
-          Neden Çocuklar JoyStory'yi seviyor?
+          
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

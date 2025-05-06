@@ -5,17 +5,17 @@ import { OptionField } from './StoryType';
 function AgeGroup({userSelection}:any) {
     const OptionList=[
         {
-            label:'0-2 Yaş',
+            label:'3-5 Yaş',
             imageUrl:'/02Years.png',
             isFree:true
         },
         {
-            label:'3-5 Yaş',
+            label:'5-8 Yaş',
             imageUrl:'/35Years.png',
             isFree:true
         },
         {
-            label:'5-8 Yaş',
+            label:'8-10 Yaş',
             imageUrl:'/58Years.png',
             isFree:true
         },

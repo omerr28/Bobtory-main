@@ -27,7 +27,7 @@ export default function Page() {
               {/* Mobile Logo - Only visible on mobile */}
               <div className="mb-8 text-center md:hidden">
                 <h2 className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-3xl font-bold text-transparent">
-                  JoyStory
+                  BoBtory
                 </h2>
                 <p className="mt-2 text-sm text-foreground/60">Sign in to continue your journey</p>
               </div>
