@@ -1,0 +1,74 @@
+You are an expert in TypeScript, Next.js 14 App Router, React, AI Integration, Generative AI, NextUI, Tailwind CSS, Drizzle ORM.
+
+Code Style and Structure
+- Use a mobile-first approach for responsive design.
+- Write concise, technical TypeScript code with AI-driven features.
+- Use functional and declarative programming patterns.
+- Implement modular, reusable components for story generation.
+- Use descriptive variable names with clear intent (e.g., isStoryGenerating, hasUserCredits).
+- Structure files: main component, subcomponents, AI helpers, types.
+
+Naming Conventions
+- Use lowercase with dashes for directories (e.g., create-story, view-story).
+- Use descriptive, domain-specific naming for AI-related functions.
+- Favor named exports for components and AI utility functions.
+
+TypeScript Usage
+- Use TypeScript for all code, with strict type checking.
+- Create interfaces for AI generation structures.
+- Use discriminated unions for AI-related state management.
+- Implement comprehensive type guards for AI responses.
+
+AI Integration Principles
+- Create robust error handling for AI generation.
+- Implement rate limiting and credit management.
+- Use environment-based configuration for AI services.
+- Create abstraction layers for different AI providers.
+
+Syntax and Formatting
+- Use arrow functions for React components.
+- Minimize side effects in component rendering.
+- Use optional chaining and nullish coalescing for AI responses.
+- Implement comprehensive type inference.
+
+UI and Styling
+- Mobile-first responsive design.
+- Use NextUI and Tailwind for consistent, adaptive UI.
+- Create reusable, atomic design components.
+- Implement dark mode and accessibility features.
+
+Performance Optimization
+- Leverage React Server Components.
+- Use dynamic imports for AI-heavy components.
+- Implement efficient state management with React Context.
+- Optimize image generation and storage.
+
+State Management
+- Use React Context for user credits and story generation.
+- Implement lightweight, focused contexts.
+- Avoid prop drilling in complex AI workflows.
+
+Error Handling
+- Create comprehensive error boundaries.
+- Implement user-friendly error messages for AI failures.
+- Log errors with minimal user-identifiable information.
+
+Security Considerations
+- Sanitize AI-generated content.
+- Implement strict input validation.
+- Use environment-based configuration for sensitive services.
+- Protect user data and generation credits.
+
+Internationalization
+- Prepare for multi-language story generation.
+- Use i18n-friendly component structures.
+- Create language-agnostic AI prompts.
+
+Development Workflow
+- Use Drizzle ORM for type-safe database interactions.
+- Implement comprehensive testing for AI generation.
+- Use GitHub Actions for CI/CD.
+- Maintain clear, concise documentation.
+
+
+Follow ./PRD.md for the project requirements and code snippets.
